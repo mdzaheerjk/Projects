@@ -13,9 +13,8 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 | S No | Project Name      | Level        | Repository | Live Demo |
 |------|------------------|-------------|------------|------------|
-| 01   | Article Scraper  | Beginner     | [GitHub](#) |  |
-| 02   | File Organizer   | Beginner     | [GitHub](#) |  |
-| 03   | Automation CLI   | Intermediate | [GitHub](#) |  |
+| 01   | Automated YouTube Mixtape Creation with Python  | Beginner|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]()||  |
+| 02   | Smart Attendance Portal with Supabase   | Intermediate     | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
 
 ---
 
@@ -31,12 +30,24 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 # 🤖 Machine Learning Projects
 
-| S No | Project Name                      | Level        | Repository | Live Demo |
-|------|----------------------------------|-------------|------------|------------|
-| 01   | Boston House Price Prediction    | Beginner     | [GitHub](#) |  |
-| 02   | Diamond Price Prediction         | Intermediate | [GitHub](#) |  |
-| 03   | Diabetes Disease Prediction      | Intermediate | [GitHub](#) |  |
-| 04   | Airbnb Price Prediction          | Advanced     | [GitHub](#) |  |
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | MLOps Jenkins Shared Library CI/CD | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 02 | Kubernetes Penetration Testing and Benchmarking with KubeHunter & KubeBench | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 03 | Network Security MLOps System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 04 | Object Detection with FasterRCNN using DVC Pipelines & DVC Data Versioning, Tensorboard, FastAPI and Postman | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 05 | Cancer Risk Prediction System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 06 | Telecom Customer Churn Prediction | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 07 | Academic Risk & Engagement Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 08 | 2-Stage Loan Approval & Valuation | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 09 | Chest Disease Identification (CNN + MLOps) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 10 | Discarded Material Detection System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 11 | Thunderstorm Forecasting (MLflow) | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 12 | Drinks Quality Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 13 | Collaborative Filtering Recommender | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 14 | Social Video Sentiment Intelligence | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 15 | Global Mobility Application Analyzer | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 ---
 
