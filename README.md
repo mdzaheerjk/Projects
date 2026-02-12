@@ -87,12 +87,24 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 # 🤖⚡ Agentic AI Projects
 
-| S No | Project Name                          | Level        | Repository | Live Demo |
-|------|--------------------------------------|-------------|------------|------------|
-| 01   | Autonomous Research Agent            | Advanced     | [GitHub](#) |  |
-| 02   | Multi-Tool AI Assistant              | Advanced     | [GitHub](#) |  |
-| 03   | AI Recruitment Agent (ARIES)         | Advanced     | [GitHub](#) |  |
-| 04   | Task Planning & Execution Agent      | Advanced     | [GitHub](#) |  |
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | Real-Time Voice AI Agent (RAG) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 02 | Google ADK AI Agent Deployment | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 03 | MCP + AutoGen Notion Agent | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 04 | AutoGen Data Analyzer GPT | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 05 | SwarmAI Multi-Agent Assistant | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 06 | Azure Multi-Modal Compliance Engine | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 07 | AI Travel Planner (LLMOps Pipeline) | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 08 | Flipkart RAG Product Chatbot | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 09 | AniBaba Anime RAG Recommender | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 10 | Pipecat AI Interview Coach | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 11 | Autonomous Blog Generation Agent | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 12 | RAG-Based Document Search App | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 13 | Stateful Agentic AI (LangGraph + Llama 3) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 14 | Multi-Agent Quant Analysis System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 15 | Notion ReAct Planner Agent | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 ---
 
