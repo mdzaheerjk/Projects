@@ -74,7 +74,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | S No | Project Name | Level | Repository | Live Demo |
 |------|-------------|-------|------------|------------|
 | 01 | Kidney Tumor Identification System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Kidney-Tumor-Identification-System.git) |  |
-
+|02| Research-Based-Cancer-Detection-with-Explainable-AI|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Research-Based-Cancer-Detection-with-Explainable-AI.git)||
 
 # 💬 Generative AI Projects
 
