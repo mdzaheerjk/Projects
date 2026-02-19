@@ -89,8 +89,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 07 | AI-Powered Job Analyzer using Filebeat with ELK Stack and Kubernetes | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Job-Analyzer-using-Filebeat-with-ELK-Stack-and-Kubernetes.git) |  |
 | 08 | YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-SEO-Insights-Generator-using-Jenkins-ArgoCD-Kubernetes.git) |  |
 | 09 | Personalized-Holiday-Management-Agent |Intermediate|[![Github](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Personalized-Holiday-Management-Agent.git)||
-
-
+|10|End-to-End-Medical-Chatbot|Advanced| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot.git)||
 
 ---
 
