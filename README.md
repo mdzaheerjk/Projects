@@ -112,7 +112,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 13 | Stateful Agentic AI (LangGraph + Llama 3) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3.git) |  |
 | 14 | Multi-Agent Quant Analysis System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Multi-Agent-Quantitative-Analysis-System-with-Azure-Cloud-Integration.git) |  |
 | 15 | Notion ReAct Planner Agent | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Notion-ReAct-Planner-Agent.git) |  |
-
+|16| YouTube-Content-Creation-Agent|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git)||
 
 ---
 
