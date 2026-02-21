@@ -116,6 +116,12 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 ---
 
+
+# AI DevOps and Cloud
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+|01|Automated AI Powered AWS Threat Detection System using CloudTrails, GuardDuty, Lambda and SNS|Beginner|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Automated-AI-Powered-AWS-Threat-Detection-System-using-CloudTrails-GuardDuty-Lambda-and-SNS.git)||
+
 ## 🏷️ Level Criteria
 
 - **Beginner** → Basic scripts / ML workflow  
