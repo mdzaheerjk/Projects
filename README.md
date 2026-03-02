@@ -86,14 +86,13 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 03 | Resume Genie: An AI-Powered Career Suite | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Resume-Genie-An-AI-Powered-Career-Suite.git) |  |
 | 04 | Neural-Semantic Matching Protocol for Real-Time Job Interoperability | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Neural-Semantic-Matching-Protocol-for-Real-Time-Job-Interoperability.git) |  |
 | 05 | AI Powered Text to SQL RAG Chatbot | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Text-to-SQL-RAG-Chatbot.git) |  |
-| 06 | Air India RAG Chatbot Development | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Air-India-RAG-Chatbot-Development.git) |  |
-| 07 | AI-Powered Job Analyzer using Filebeat with ELK Stack and Kubernetes | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Job-Analyzer-using-Filebeat-with-ELK-Stack-and-Kubernetes.git) |  |
-| 08 | YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-SEO-Insights-Generator-using-Jenkins-ArgoCD-Kubernetes.git) |  |
-| 09 | Personalized-Holiday-Management-Agent |Intermediate|[![Github](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Personalized-Holiday-Management-Agent.git)||
-|10|End-to-End-Medical-Chatbot|Advanced| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot.git)||
-|11| Telegram chatbot| Intermediate |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Telegram-Chatbot.git)
-|12|Knowledge Intelligence System|Advanced |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git)
-|13|Realtime-Source-Code-Analyzer|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git)|| 
+| 06 | AI-Powered Job Analyzer using Filebeat with ELK Stack and Kubernetes | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Job-Analyzer-using-Filebeat-with-ELK-Stack-and-Kubernetes.git) |  |
+| 07 | YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-SEO-Insights-Generator-using-Jenkins-ArgoCD-Kubernetes.git) |  |
+| 08 | Personalized-Holiday-Management-Agent |Intermediate|[![Github](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Personalized-Holiday-Management-Agent.git)||
+|09|End-to-End-Medical-Chatbot|Advanced| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot.git)||
+|10| Telegram chatbot| Intermediate |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Telegram-Chatbot.git)
+|11|Knowledge Intelligence System|Advanced |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git)
+|12|Realtime-Source-Code-Analyzer|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git)|| 
 
 ---
 
