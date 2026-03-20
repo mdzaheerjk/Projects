@@ -80,6 +80,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |03| Mosquito Detection System - Prevent Mosquito-borne Diseases|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Mosquito-Detection-System-Prevent-Mosquito-borne-Diseases.git)||
 |04| Sign Language Detection Systems For Deaf And Mute Individuals |Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Sign-Language-Detection-Systems-For-Deaf-And-Mute-Individuals.git)||
 |05 | End-to-End Waste Detection System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Sign-Language-Detection-Systems-For-Deaf-And-Mute-Individuals.git)||
+|06|Facial Emotion Detection System|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Facial-Emotion-Detection-System.git)||
 
 # 💬 Generative AI Projects
 
