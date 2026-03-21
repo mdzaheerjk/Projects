@@ -60,6 +60,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 02 | Solar Panel Defect Classification | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Solar-Panel-Defect-Classification-Using-Deep-Learning.git) |  |
 | 03 | Elephant Species Classification (Transfer Learning) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Elephant-Species-Classification-using-Deep-Learning-and-Transfer-Learning.git) |  |
 | 04 | AI Heart Murmur Detection System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Heart-Murmur-Detection-System.git) |  |
+|05 |END 2 END Tumor Detection with XAI and GCP|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/END-2-END-Tumor-Detection-with-XAI-and-GCP.git)||
 
 
 ---
