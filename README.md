@@ -101,6 +101,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |10| Telegram chatbot| Intermediate |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Telegram-Chatbot.git)
 |11|Knowledge Intelligence System|Advanced |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git)
 |12|Realtime-Source-Code-Analyzer|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git)|| 
+|13|Gen AI Powered Clothing Store with Pydantic AI |Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git)||
 
 ---
 
