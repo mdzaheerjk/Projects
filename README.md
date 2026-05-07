@@ -128,6 +128,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |17|AI-Powered Customer Support Agent with Memory and Tool Calling|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git)||
 |18|Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git)||
 |19|Advanced-AI-GitHub-PR-Code-Reviewer|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git)||
+|11|Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git)||
 
 ---
 
@@ -138,6 +139,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |01|Automated AI Powered AWS Threat Detection System using CloudTrails, GuardDuty, Lambda and SNS|Beginner|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Automated-AI-Powered-AWS-Threat-Detection-System-using-CloudTrails-GuardDuty-Lambda-and-SNS.git)||
 |02 |AI Powered Image Analyzer using Terraform, AWS Bedrock & Rekognition | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Automated-AI-Powered-AWS-Threat-Detection-System-using-CloudTrails-GuardDuty-Lambda-and-SNS.git)
 |03|AI-Powered Web Application with LLM Fine-Tuning, CI/CD Automation and Vibe-Coding|Beginner|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Web-Application-with-LLM-Fine-Tuning-CI-CD-Automation-and-Vibe-Coding.git)||
+
 
 ## 🏷️ Level Criteria
 
