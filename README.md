@@ -102,6 +102,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |11|Knowledge Intelligence System|Advanced |  [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git)
 |12|Realtime-Source-Code-Analyzer|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git)|| 
 |13|Gen AI Powered Clothing Store with Pydantic AI |Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git)||
+| 14 | RAG-Based Document Search App | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git) |  |
 
 ---
 
@@ -120,15 +121,14 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 09 | AniBaba-AI-Powered-Anime-Recommendation-System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AniBaba-AI-Powered-Anime-Recommendation-System.git) |  |
 | 10 | Pipecat-AI-Interview-Coach-Real-Time-Voice-Interaction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Pipecat-AI-Interview-Coach-Real-Time-Voice-Interaction.git) |  |
 | 11 | Autonomous Blog Generation Agent | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Building-an-Autonomous-Blog-Generation-Agent-with-Langgraph-FastAPI.git) |  |
-| 12 | RAG-Based Document Search App | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git) |  |
-| 13 | Stateful Agentic AI (LangGraph + Llama 3) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3.git) |  |
-| 14 | Multi-Agent Quant Analysis System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Multi-Agent-Quantitative-Analysis-System-with-Azure-Cloud-Integration.git) |  |
-| 15 | Notion ReAct Planner Agent | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Notion-ReAct-Planner-Agent.git) |  |
-|16| YouTube-Content-Creation-Agent|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git)||
-|17|AI-Powered Customer Support Agent with Memory and Tool Calling|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git)||
-|18|Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git)||
-|19|Advanced-AI-GitHub-PR-Code-Reviewer|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git)||
-|20|Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git)||
+| 12 | Stateful Agentic AI (LangGraph + Llama 3) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3.git) |  |
+| 13 | Multi-Agent Quant Analysis System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Multi-Agent-Quantitative-Analysis-System-with-Azure-Cloud-Integration.git) |  |
+| 14 | Notion ReAct Planner Agent | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Notion-ReAct-Planner-Agent.git) |  |
+|15| YouTube-Content-Creation-Agent|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git)||
+|16|AI-Powered Customer Support Agent with Memory and Tool Calling|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git)||
+|17|Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git)||
+|18|Advanced-AI-GitHub-PR-Code-Reviewer|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git)||
+|19|Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git)||
 
 ---
 
