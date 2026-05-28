@@ -103,6 +103,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |12|Realtime-Source-Code-Analyzer|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git)|| 
 |13|Gen AI Powered Clothing Store with Pydantic AI |Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git)||
 | 14 | RAG-Based Document Search App | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git) |  |
+|15 | Enterprise Advanced RAG with Hybrid Search, ReRanking, HyDE, CRAG, Self-RAG, Text2SQL, Caching and Guardrails in LangGraph |Advanced |[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails.git)||
 
 ---
 
