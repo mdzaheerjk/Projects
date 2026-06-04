@@ -88,6 +88,11 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 | 15 | Global Mobility Application Analyzer | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Global-Mobility-Application-Analyzer.git) |
 
 ---
+## Mlops 
+| # | Project | Level | Repo |
+|---|---------|-------|------|
+
+---
 
 ## 🧠 Deep Learning Projects
 
@@ -167,6 +172,12 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 | 17 | Insurance Claim Support AI Agent (LangMem + RAG) | 🟡 Intermediate | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git) |
 | 18 | Advanced AI GitHub PR Code Reviewer | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git) |
 | 19 | Production-Grade Advanced RAG (LangGraph + GCP + Groq) | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git) |
+
+---
+
+## Llmops And AIops Projects
+| # | Project | Level | Repo |
+|---|---------|-------|------|
 
 ---
 
