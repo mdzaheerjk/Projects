@@ -170,17 +170,6 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 
 ---
 
-## ☁️ AI DevOps & Cloud
-
-| # | Project | Level | Repo |
-|---|---------|-------|------|
-| 01 | Automated AI-Powered AWS Threat Detection (CloudTrail, GuardDuty, Lambda & SNS) | 🟢 Beginner | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Automated-AI-Powered-AWS-Threat-Detection-System-using-CloudTrails-GuardDuty-Lambda-and-SNS.git) |
-| 02 | AI-Powered Image Analyzer (Terraform, AWS Bedrock & Rekognition) | 🟢 Beginner | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Powered-Image-Analyzer-using-Terraform-AWS-Bedrock-Rekognition.git) |
-| 03 | AI-Powered Web App with LLM Fine-Tuning, CI/CD & Vibe-Coding | 🟢 Beginner | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Powered-Web-Application-with-LLM-Fine-Tuning-CI-CD-Automation-and-Vibe-Coding.git) |
-| 04 | AWS Cost Optimizer Dashboard (Terraform, Lambda & API Gateway) | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AWS-Cost-Optimizer-Dashboard-using-Terraform-Lambda-API-Gateway.git) |
-
----
-
 ## 🛠️ Tech Stack
 
 <details>
