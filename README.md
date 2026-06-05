@@ -181,7 +181,9 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 |01|AI Anime Recommender using Grafana Cloud,Minikube,ChromaDB,Langchain | |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Anime-Recommender.git)|
 |02 | Flipkart Product Recommender using Prometheus, Grafana, Minikube, AstraDB, LangChain | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Flipkart-Product-Recommender.git)|
 |03 |AI Travel Planner using Filebeat, ELK (Elasticsearch, Logstash, Kibana) | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Travel-Planner.git) |
-|04 |Study Buddy AI using Minikube, Jenkins, ArgoCD, GitOps, LangChain, Docker | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Study-Buddy-AI.git)
+|04 |Study Buddy AI using Minikube, Jenkins, ArgoCD, GitOps, LangChain, Docker | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Study-Buddy-AI.git)|
+|05 |Celebrity Detector & QA using Kubernetes, CircleCI, Groq, Llama-4, OpenCV | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Celebrity-Detector-QA.git)|
+|06 |Multi AI Agent using Jenkins, SonarQube, FastAPI, LangChain, LangGraph | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-AI-Agent.git)
 
 ---
 
