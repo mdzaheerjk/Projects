@@ -175,7 +175,7 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 
 ---
 
-## Llmops And AIops Projects
+## ⚙️ Llmops And AIops Projects
 | # | Project | Level | Repo |
 |---|---------|-------|------|
 |01|AI Anime Recommender using Grafana Cloud,Minikube,ChromaDB,Langchain | |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Anime-Recommender.git)|
