@@ -185,6 +185,7 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 |05 |Celebrity Detector & QA using Kubernetes, CircleCI, Groq, Llama-4, OpenCV | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Celebrity-Detector-QA.git)|
 |06 |Multi AI Agent using Jenkins, SonarQube, FastAPI, LangChain, LangGraph | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-AI-Agent.git)|
 |07 |Medical RAG Chatbot | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Medical-RAG-Chatbot.git)|
+|08 |AI Music Composer using GitLab CI/CD, GCP Kubernetes, Music21 | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Music-Composer.git)
 
 ---
 
