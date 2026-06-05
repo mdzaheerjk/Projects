@@ -91,10 +91,20 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 ## Mlops 
 | # | Project | Level | Repo |
 |---|---------|-------|------|
+|01 | Hotel Reservation Prediction with MLflow, Jenkins and GCP Deployment | |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Hotel-Reservation-Prediction.git)|
+|02|Hybrid Anime Recommender System with Comet-ML, DVC, Jenkins and Deployment | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Hybrid-Anime-Recommender-System.git)|
+|03 |User Survival Prediction with Astro Airflow, SQL, Redis, Grafana and Monitoring Pipeline|| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/User-Survival-Prediction.git)|
+|04 | Custom Guns Object Detection with TensorBoard, DVC, FastAPI and Deployment Pipeline ||[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Custom-Guns-Object-Detection.git)|
+|05 |Colorectal Cancer Prediction with MLflow, DagsHub, Minikube Kubernetes and Deployment ||[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Colorectal-Cancer-Prediction.git)|
+|06 |Minor MLOps Project – 1 using CircleCI | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-1.git) | 
+|07 |Minor MLOps Project – 2 using GitLab CI/CD | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-2.git) | 
+|08 | Minor MLOps Project – 3 using GitHub Actions| |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-3.git) | 
+|09 | Australia Weather Rain Prediction using GitHub Actions, CircleCI and MLOps Pipeline| |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Australia-Weather-Rain-Prediction.git) | 
+|10 |Smart Manufacturing Machines Efficiency Prediction with GitOps, ArgoCD and Kubernetes | |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Smart-Manufacturing-Machines-Efficiency-Prediction.git) | 
 
 ---
 
-## 🧠 Deep Learning Projects
+## Deep Learning Projects
 
 | # | Project | Level | Repo |
 |---|---------|-------|------|
