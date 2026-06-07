@@ -156,6 +156,7 @@ Build scalable, deployable AI systems — from ML models to autonomous multi-age
 | 13 | Gen AI-Powered Clothing Store with Pydantic AI | 🟡 Intermediate | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git) |
 | 14 | RAG-Based Document Search App | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git) |
 | 15 | Enterprise Advanced RAG — Hybrid Search, ReRanking, HyDE, CRAG, Self-RAG, Text2SQL, Caching & Guardrails in LangGraph | 🔴 Advanced | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails.git) |
+|16 | Air India RAG Chatbot Development | 🟢 Beginner  | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Air-India-RAG-Chatbot-Development.git)|
 
 ---
 
