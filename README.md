@@ -23,22 +23,6 @@
 
 ---
 
-## ⭐ Featured Live Demos
-
-<div align="center">
-
-| Project | Description | Try It |
-|---|---|---|
-| 🏦 **2-Stage Loan Approval & Valuation** | Two-stage ML pipeline for loan eligibility + valuation scoring | [![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Try_Now-brightgreen?style=for-the-badge)](#) |
-| 🐘 **Elephant Species Classification** | Transfer-learning powered deep learning classifier | [![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Try_Now-brightgreen?style=for-the-badge)](#) |
-| ☀️ **Solar Panel Defect Classification** | Deep learning system to detect solar panel defects | [![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Try_Now-brightgreen?style=for-the-badge)](#) |
-
-> ⚠️ **Note:** The buttons above currently link to placeholders (`#`). Send me the actual deployed URLs (Streamlit / Render / HuggingFace Spaces / Vercel, etc.) and I'll wire them in immediately.
-
-</div>
-
----
-
 ## 📋 Table of Contents
 
 - [🐍 Python Projects](#-python-projects)
