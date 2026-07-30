@@ -93,6 +93,7 @@
 | 14 | Social Video Sentiment Intelligence | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Social-Video-Audience-Sentiment-Intelligence.git) | — |
 | 15 | Global Mobility Application Analyzer | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Global-Mobility-Application-Analyzer.git) | — |
 |16 | Mental Health Score | 🟢| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Mental-Health-Score.git) |[![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://mental-health-score-qquv.onrender.com/) |
+|17 | NYC Airbnb Room Type Predictor | 🟢|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/NYC-Airbnb-Room-Type-Predictor)|[![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://nyc-airbnb-room-type-predictor-tfg8.onrender.com/)|
 
 ---
 
