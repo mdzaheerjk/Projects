@@ -193,6 +193,8 @@
 | 18 | Advanced AI GitHub PR Code Reviewer | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git) | — |
 | 19 | Production-Grade Advanced RAG (LangGraph + GCP + Groq) | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git) | — |
 | 20 | Multi Agent Clinical Trial Inteligence Using LangGraph LangMem GCP |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-Clinical-Trial-Inteligence-Using-LangGraph-LangMem-GCP.git)| __ |
+| 21 |Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming.git)|__|
+
 
 ---
 
