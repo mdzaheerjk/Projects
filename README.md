@@ -77,7 +77,7 @@
 
 | # | Project | Level | Repo | Live |
 |---|---|:---:|:---:|:---:|
-| 01 | MLOps Jenkins Shared Library CI/CD | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git) | — |
+| 01 | **MLOps Jenkins Shared Library CI/CD** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git) |  [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git) |
 | 02 | Kubernetes Penetration Testing & Benchmarking with KubeHunter & KubeBench | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Kubernetes-Penetration-Testing-and-Benchmarking-with-KubeHunter-KubeBench.git) | — |
 | 03 | Network Security MLOps System | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Network-Security.git) | — |
 | 04 | Object Detection with FasterRCNN + DVC Pipelines, Tensorboard, FastAPI & Postman | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Object-Detection-with-FasterRCNN-using-DVC-Pipelines-DVC-Data-Versioning-Tensorboard-FastAPI.git) | — |
