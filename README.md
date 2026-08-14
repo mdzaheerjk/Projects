@@ -28,13 +28,11 @@
 - [🐍 Python Projects](#-python-projects)
 - [📦 Data Science Projects](#-data-science-projects)
 - [🤖 Machine Learning Projects](#-machine-learning-projects)
-- [⚙️ MLOps Projects](#️-mlops-projects)
 - [🧠 Deep Learning Projects](#-deep-learning-projects)
 - [📝 NLP Projects](#-nlp-projects)
 - [👁️ Computer Vision Projects](#️-computer-vision-projects)
 - [💬 Generative AI Projects](#-generative-ai-projects)
 - [⚡ Agentic AI Projects](#-agentic-ai-projects)
-- [⚙️ LLMOps & AIOps Projects](#️-llmops--aiops-projects)
 - [🏷️ Level Criteria](#️-level-criteria)
 - [🛠️ Tech Stack](#️-tech-stack)
 
@@ -97,22 +95,6 @@
 
 ---
 
-## ⚙️ MLOps Projects
-
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Hotel Reservation Prediction with MLflow, Jenkins and GCP Deployment | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Hotel-Reservation-Prediction.git) | — |
-| 02 | Hybrid Anime Recommender System with Comet-ML, DVC, Jenkins and Deployment | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Hybrid-Anime-Recommender-System.git) | — |
-| 03 | User Survival Prediction with Astro Airflow, SQL, Redis, Grafana and Monitoring Pipeline | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/User-Survival-Prediction.git) | — |
-| 04 | Custom Guns Object Detection with TensorBoard, DVC, FastAPI and Deployment Pipeline | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Custom-Guns-Object-Detection.git) | — |
-| 05 | Colorectal Cancer Prediction with MLflow, DagsHub, Minikube Kubernetes and Deployment | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Colorectal-Cancer-Prediction.git) | — |
-| 06 | Minor MLOps Project – 1 using CircleCI | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-1.git) | — |
-| 07 | Minor MLOps Project – 2 using GitLab CI/CD | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-2.git) | — |
-| 08 | Minor MLOps Project – 3 using GitHub Actions | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Minor-MLOps-Project-3.git) | — |
-| 09 | Australia Weather Rain Prediction using GitHub Actions, CircleCI and MLOps Pipeline | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Australia-Weather-Rain-Prediction.git) | — |
-| 10 | Smart Manufacturing Machines Efficiency Prediction with GitOps, ArgoCD and Kubernetes | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Smart-Manufacturing-Machines-Efficiency-Prediction.git) | — |
-
----
 
 ## 🧠 Deep Learning Projects
 
@@ -197,20 +179,6 @@
 | 22 | End-to-End-AI-Governance-Project |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-AI-Governance-Project.git)|__|
 
 
----
-
-## ⚙️ LLMOps & AIOps Projects
-
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | AI Anime Recommender using Grafana Cloud, Minikube, ChromaDB, LangChain | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Anime-Recommender.git) | — |
-| 02 | Flipkart Product Recommender using Prometheus, Grafana, Minikube, AstraDB, LangChain | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Flipkart-Product-Recommender.git) | — |
-| 03 | AI Travel Planner using Filebeat, ELK (Elasticsearch, Logstash, Kibana) | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Travel-Planner.git) | — |
-| 04 | Study Buddy AI using Minikube, Jenkins, ArgoCD, GitOps, LangChain, Docker | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Study-Buddy-AI.git) | — |
-| 05 | Celebrity Detector & QA using Kubernetes, CircleCI, Groq, Llama-4, OpenCV | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Celebrity-Detector-QA.git) | — |
-| 06 | Multi AI Agent using Jenkins, SonarQube, FastAPI, LangChain, LangGraph | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-AI-Agent.git) | — |
-| 07 | Medical RAG Chatbot | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Medical-RAG-Chatbot.git) | — |
-| 08 | AI Music Composer using GitLab CI/CD, GCP Kubernetes, Music21 | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Music-Composer.git) | — |
 
 ---
 
