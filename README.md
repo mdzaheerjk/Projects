@@ -6,6 +6,8 @@
 
 **Build scalable, deployable AI systems — from ML models to autonomous multi-agent pipelines.**
 
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -14,10 +16,14 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Repo Size](https://img.shields.io/github/repo-size/mdzaheerjk/mdzaheerjk?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/mdzaheerjk/mdzaheerjk?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mdzaheerjk/mdzaheerjk?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/mdzaheerjk/mdzaheerjk?style=flat-square&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/mdzaheerjk/mdzaheerjk?style=flat-square&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/mdzaheerjk/mdzaheerjk?style=flat-square&color=gold)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+<br>
+
+**⭐ 60+ Projects · 8 Domains · Production-Grade Architecture**
 
 </div>
 
@@ -25,160 +31,159 @@
 
 ## 📋 Table of Contents
 
-- [🐍 Python Projects](#-python-projects)
-- [📦 Data Science Projects](#-data-science-projects)
-- [🤖 Machine Learning Projects](#-machine-learning-projects)
-- [🧠 Deep Learning Projects](#-deep-learning-projects)
-- [📝 NLP Projects](#-nlp-projects)
-- [👁️ Computer Vision Projects](#️-computer-vision-projects)
-- [💬 Generative AI Projects](#-generative-ai-projects)
-- [⚡ Agentic AI Projects](#-agentic-ai-projects)
-- [🏷️ Level Criteria](#️-level-criteria)
-- [🛠️ Tech Stack](#️-tech-stack)
+<div align="center">
 
----
+| | | |
+|:---:|:---:|:---:|
+| [🐍 Python](#-python-projects) | [📦 Data Science](#-data-science-projects) | [🤖 Machine Learning](#-machine-learning-projects) |
+| [🧠 Deep Learning](#-deep-learning-projects) | [📝 NLP](#-nlp-projects) | [👁️ Computer Vision](#️-computer-vision-projects) |
+| [💬 Generative AI](#-generative-ai-projects) | [⚡ Agentic AI](#-agentic-ai-projects) | [🛠️ Tech Stack](#️-tech-stack) |
 
-## 🏷️ Level Criteria
-
-| Badge | Level | Description |
-|:---:|:---|:---|
-| 🟢 | **Beginner** | Basic scripts / ML workflow |
-| 🟡 | **Intermediate** | Proper pipeline + evaluation |
-| 🔴 | **Advanced** | Deployment + APIs + structured architecture |
-| 🚀 | **Agentic** | Multi-step reasoning + tool calling + memory + autonomous workflow |
+</div>
 
 ---
 
 ## 🐍 Python Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Automated YouTube Mixtape Creation with Python | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Automated-YouTube-Mixtape-Creation-with-Python.git) | — |
-| 02 | Smart Attendance Portal with Supabase | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Smart-Attendance-Portal-with-Supabase.git) | — |
-| 03 | Intelligent Timetable Generator with Genetic Algorithm | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Intelligent-Timetable-Generator-with-Genetic-Algorithm.git) | — |
-| 04 | PCAP StoryTeller | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/PCAP-StoryTeller.git) | — |
-| 05 | Python Mega Project — Personal AI Voice Assistant System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Python-Mega-Project-Personal-AI-Voice-Assistant-System.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Automated YouTube Mixtape Creation with Python</td><td align="center"><a href="https://github.com/mdzaheerjk/Automated-YouTube-Mixtape-Creation-with-Python.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Smart Attendance Portal with Supabase</td><td align="center"><a href="https://github.com/mdzaheerjk/Smart-Attendance-Portal-with-Supabase.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Intelligent Timetable Generator with Genetic Algorithm</td><td align="center"><a href="https://github.com/mdzaheerjk/Intelligent-Timetable-Generator-with-Genetic-Algorithm.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>PCAP StoryTeller</td><td align="center"><a href="https://github.com/mdzaheerjk/PCAP-StoryTeller.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Python Mega Project — Personal AI Voice Assistant System</td><td align="center"><a href="https://github.com/mdzaheerjk/Python-Mega-Project-Personal-AI-Voice-Assistant-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## 📦 Data Science Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | NexusViewPro — Jupyter Web Viewer Package | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-NexusView-Package.git) | — |
-| 02 | Books Recommender System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Books-Recommender-System.git) | — |
-| 03 | AI-Powered Content Summarisation | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Powered-Content-Summarisation.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>NexusViewPro — Jupyter Web Viewer Package</td><td align="center"><a href="https://github.com/mdzaheerjk/End-to-End-NexusView-Package.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Books Recommender System</td><td align="center"><a href="https://github.com/mdzaheerjk/Books-Recommender-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AI-Powered Content Summarisation</td><td align="center"><a href="https://github.com/mdzaheerjk/AI-Powered-Content-Summarisation.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | **MLOps Jenkins Shared Library CI/CD** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git) |  [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://smart-manufacturing-machines-efficiency-gf3s.onrender.com/) |
-| 02 | Kubernetes Penetration Testing & Benchmarking with KubeHunter & KubeBench | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Kubernetes-Penetration-Testing-and-Benchmarking-with-KubeHunter-KubeBench.git) | — |
-| 03 | Network Security MLOps System | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Network-Security.git) | — |
-| 04 | Object Detection with FasterRCNN + DVC Pipelines, Tensorboard, FastAPI & Postman | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Object-Detection-with-FasterRCNN-using-DVC-Pipelines-DVC-Data-Versioning-Tensorboard-FastAPI.git) | — |
-| 05 | **Cancer Risk Prediction System** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Predictive-Modeling-for-Cancer-Risk-Assessment-Using-MachineLearning.git) |  [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://predictive-modeling-for-cancer-risk.streamlit.app/)|
-| 06 | **Telecom Customer Churn Prediction** | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://telecom-customer-churn-prediction-using-machine-learning.streamlit.app/)
-| 07 | Academic Risk & Engagement Prediction | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Academic-Risk-Engagement-Prediction-System.git) | — |
-| 08 | **2-Stage Loan Approval & Valuation** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/2-Stage-Loan-Approval-Valuation-System.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://2-stage-loan-approval-valuation-system.streamlit.app/) |
-| 09 | Chest Disease Identification (CNN + MLOps) | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Chest-Disease-Identification.git) | — |
-| 10 | Discarded Material Detection System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Discarded-Material-Identification-System.git) | — |
-| 11 | **Thunderstorm Forecasting (MLflow)** | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Thunderstorm-Forecasting-with-MLFlow-Tracking.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://thunderstorm-forecasting-with-mlflow-u45c.onrender.com/)|
-| 12 | Drinks Quality Prediction | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Drinks-Quality-Prediction-System.git) | — |
-| 13 | Collaborative Filtering Recommender | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Collaborative-Filtering-Recommendation-System.git) | — |
-| 14 | Social Video Sentiment Intelligence | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Social-Video-Audience-Sentiment-Intelligence.git) | — |
-| 15 | Global Mobility Application Analyzer | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Global-Mobility-Application-Analyzer.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td><b>MLOps Jenkins Shared Library CI/CD</b></td><td align="center"><a href="https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://smart-manufacturing-machines-efficiency-gf3s.onrender.com/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td>Kubernetes Penetration Testing & Benchmarking with KubeHunter & KubeBench</td><td align="center"><a href="https://github.com/mdzaheerjk/Kubernetes-Penetration-Testing-and-Benchmarking-with-KubeHunter-KubeBench.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Network Security MLOps System</td><td align="center"><a href="https://github.com/mdzaheerjk/Network-Security.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Object Detection with FasterRCNN + DVC Pipelines, Tensorboard, FastAPI & Postman</td><td align="center"><a href="https://github.com/mdzaheerjk/Object-Detection-with-FasterRCNN-using-DVC-Pipelines-DVC-Data-Versioning-Tensorboard-FastAPI.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td><b>Cancer Risk Prediction System</b></td><td align="center"><a href="https://github.com/mdzaheerjk/Predictive-Modeling-for-Cancer-Risk-Assessment-Using-MachineLearning.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://predictive-modeling-for-cancer-risk.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td><b>Telecom Customer Churn Prediction</b></td><td align="center"><a href="https://github.com/mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://telecom-customer-churn-prediction-using-machine-learning.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td>Academic Risk & Engagement Prediction</td><td align="center"><a href="https://github.com/mdzaheerjk/Academic-Risk-Engagement-Prediction-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td><b>2-Stage Loan Approval & Valuation</b></td><td align="center"><a href="https://github.com/mdzaheerjk/2-Stage-Loan-Approval-Valuation-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://2-stage-loan-approval-valuation-system.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td>Chest Disease Identification (CNN + MLOps)</td><td align="center"><a href="https://github.com/mdzaheerjk/Chest-Disease-Identification.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Discarded Material Detection System</td><td align="center"><a href="https://github.com/mdzaheerjk/Discarded-Material-Identification-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td><b>Thunderstorm Forecasting (MLflow)</b></td><td align="center"><a href="https://github.com/mdzaheerjk/Thunderstorm-Forecasting-with-MLFlow-Tracking.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://thunderstorm-forecasting-with-mlflow-u45c.onrender.com/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td>Drinks Quality Prediction</td><td align="center"><a href="https://github.com/mdzaheerjk/Drinks-Quality-Prediction-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Collaborative Filtering Recommender</td><td align="center"><a href="https://github.com/mdzaheerjk/Collaborative-Filtering-Recommendation-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Social Video Sentiment Intelligence</td><td align="center"><a href="https://github.com/mdzaheerjk/Social-Video-Audience-Sentiment-Intelligence.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Global Mobility Application Analyzer</td><td align="center"><a href="https://github.com/mdzaheerjk/Global-Mobility-Application-Analyzer.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
-
 ## 🧠 Deep Learning Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Poultry Disease Identification | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Poultry-Disease-Identification.git) | — |
-| 02 | **Solar Panel Defect Classification** | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Solar-Panel-Defect-Classification-Using-Deep-Learning.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://solar-panel-defect-classification-using-deep-learning.streamlit.app/) |
-| 03 | **Elephant Species Classification (Transfer Learning)** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Elephant-Species-Classification-using-Deep-Learning-and-Transfer-Learning.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://elephant-species.streamlit.app/) |
-| 04 | **AI Heart Murmur Detection System** | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Powered-Heart-Murmur-Detection-System.git) | [![Live](https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square)](https://ai-powered-heart-murmur-detection--system.streamlit.app/) |
-| 05 | End-to-End Tumor Detection with XAI & GCP | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/END-2-END-Tumor-Detection-with-XAI-and-GCP.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Poultry Disease Identification</td><td align="center"><a href="https://github.com/mdzaheerjk/Poultry-Disease-Identification.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td><b>Solar Panel Defect Classification</b></td><td align="center"><a href="https://github.com/mdzaheerjk/Solar-Panel-Defect-Classification-Using-Deep-Learning.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://solar-panel-defect-classification-using-deep-learning.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td><b>Elephant Species Classification (Transfer Learning)</b></td><td align="center"><a href="https://github.com/mdzaheerjk/Elephant-Species-Classification-using-Deep-Learning-and-Transfer-Learning.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://elephant-species.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td><b>AI Heart Murmur Detection System</b></td><td align="center"><a href="https://github.com/mdzaheerjk/AI-Powered-Heart-Murmur-Detection-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center"><a href="https://ai-powered-heart-murmur-detection--system.streamlit.app/"><img src="https://img.shields.io/badge/🔴_LIVE-Best_Ever-brightgreen?style=flat-square"></a></td></tr>
+<tr><td>End-to-End Tumor Detection with XAI & GCP</td><td align="center"><a href="https://github.com/mdzaheerjk/END-2-END-Tumor-Detection-with-XAI-and-GCP.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## 📝 NLP Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Text Summarization (Hugging Face + Pegasus) | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-NLP-Text-Summarization-with-Hugging-Face-Transformers.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Text Summarization (Hugging Face + Pegasus)</td><td align="center"><a href="https://github.com/mdzaheerjk/End-to-End-NLP-Text-Summarization-with-Hugging-Face-Transformers.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## 👁️ Computer Vision Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Kidney Tumor Identification System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Kidney-Tumor-Identification-System.git) | — |
-| 02 | Research-Based Cancer Detection with Explainable AI | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Research-Based-Cancer-Detection-with-Explainable-AI.git) | — |
-| 03 | Mosquito Detection System — Prevent Mosquito-borne Diseases | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Mosquito-Detection-System-Prevent-Mosquito-borne-Diseases.git) | — |
-| 04 | Sign Language Detection for Deaf & Mute Individuals | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Sign-Language-Detection-Systems-For-Deaf-And-Mute-Individuals.git) | — |
-| 05 | End-to-End Waste Detection System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-Waste-Detection-System.git) | — |
-| 06 | Facial Emotion Detection System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Facial-Emotion-Detection-System.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Kidney Tumor Identification System</td><td align="center"><a href="https://github.com/mdzaheerjk/Kidney-Tumor-Identification-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Research-Based Cancer Detection with Explainable AI</td><td align="center"><a href="https://github.com/mdzaheerjk/Research-Based-Cancer-Detection-with-Explainable-AI.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Mosquito Detection System — Prevent Mosquito-borne Diseases</td><td align="center"><a href="https://github.com/mdzaheerjk/Mosquito-Detection-System-Prevent-Mosquito-borne-Diseases.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Sign Language Detection for Deaf & Mute Individuals</td><td align="center"><a href="https://github.com/mdzaheerjk/Sign-Language-Detection-Systems-For-Deaf-And-Mute-Individuals.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>End-to-End Waste Detection System</td><td align="center"><a href="https://github.com/mdzaheerjk/End-to-End-Waste-Detection-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Facial Emotion Detection System</td><td align="center"><a href="https://github.com/mdzaheerjk/Facial-Emotion-Detection-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## 💬 Generative AI Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Automated Candidate Interview & Evaluation System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Automated-Candidate-Interview-Evaluation-System.git) | — |
-| 02 | Medical Diagnosis App | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Medical-Diagnosis-App.git) | — |
-| 03 | Resume Genie — AI-Powered Career Suite | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Resume-Genie-An-AI-Powered-Career-Suite.git) | — |
-| 04 | Neural-Semantic Matching Protocol for Real-Time Job Interoperability | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Neural-Semantic-Matching-Protocol-for-Real-Time-Job-Interoperability.git) | — |
-| 05 | AI-Powered Job Analyzer using Filebeat, ELK Stack & Kubernetes | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Powered-Job-Analyzer-using-Filebeat-with-ELK-Stack-and-Kubernetes.git) | — |
-| 06 | YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/YouTube-SEO-Insights-Generator-using-Jenkins-ArgoCD-Kubernetes.git) | — |
-| 07 | Personalized Holiday Management Agent | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Personalized-Holiday-Management-Agent.git) | — |
-| 08 | End-to-End Medical Chatbot | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot.git) | — |
-| 09 | Telegram Chatbot | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Telegram-Chatbot.git) | — |
-| 10 | Knowledge Intelligence System | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git) | — |
-| 11 | Realtime Source Code Analyzer | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git) | — |
-| 12 | Gen AI-Powered Clothing Store with Pydantic AI | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git) | — |
-| 13 | RAG-Based Document Search App | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git) | — |
-| 14 | Enterprise Advanced RAG — Hybrid Search, ReRanking, HyDE, CRAG, Self-RAG, Text2SQL, Caching & Guardrails in LangGraph | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails.git) | — |
-| 15 | Air India RAG Chatbot Development | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Air-India-RAG-Chatbot-Development.git) | — |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Automated Candidate Interview & Evaluation System</td><td align="center"><a href="https://github.com/mdzaheerjk/Automated-Candidate-Interview-Evaluation-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Medical Diagnosis App</td><td align="center"><a href="https://github.com/mdzaheerjk/Medical-Diagnosis-App.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Resume Genie — AI-Powered Career Suite</td><td align="center"><a href="https://github.com/mdzaheerjk/Resume-Genie-An-AI-Powered-Career-Suite.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Neural-Semantic Matching Protocol for Real-Time Job Interoperability</td><td align="center"><a href="https://github.com/mdzaheerjk/Neural-Semantic-Matching-Protocol-for-Real-Time-Job-Interoperability.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AI-Powered Job Analyzer using Filebeat, ELK Stack & Kubernetes</td><td align="center"><a href="https://github.com/mdzaheerjk/AI-Powered-Job-Analyzer-using-Filebeat-with-ELK-Stack-and-Kubernetes.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes</td><td align="center"><a href="https://github.com/mdzaheerjk/YouTube-SEO-Insights-Generator-using-Jenkins-ArgoCD-Kubernetes.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Personalized Holiday Management Agent</td><td align="center"><a href="https://github.com/mdzaheerjk/Personalized-Holiday-Management-Agent.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>End-to-End Medical Chatbot</td><td align="center"><a href="https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Telegram Chatbot</td><td align="center"><a href="https://github.com/mdzaheerjk/Telegram-Chatbot.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Knowledge Intelligence System</td><td align="center"><a href="https://github.com/mdzaheerjk/Knowledge-Intelligence-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Realtime Source Code Analyzer</td><td align="center"><a href="https://github.com/mdzaheerjk/Realtime-Source-Code-Analyzer.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Gen AI-Powered Clothing Store with Pydantic AI</td><td align="center"><a href="https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>RAG-Based Document Search App</td><td align="center"><a href="https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Enterprise Advanced RAG — Hybrid Search, ReRanking, HyDE, CRAG, Self-RAG, Text2SQL, Caching & Guardrails in LangGraph</td><td align="center"><a href="https://github.com/mdzaheerjk/Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Air India RAG Chatbot Development</td><td align="center"><a href="https://github.com/mdzaheerjk/Air-India-RAG-Chatbot-Development.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
 ---
 
 ## ⚡ Agentic AI Projects
 
-| # | Project | Level | Repo | Live |
-|---|---|:---:|:---:|:---:|
-| 01 | Real-Time Voice AI Agent (RAG) | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Real-Time-Voice-AI-Agent-with-RAG.git) | — |
-| 02 | Google ADK AI Agent Deployment | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Google-ADK-Build-AI-Agents-and-Deploy-to-the-Cloud.git) | — |
-| 03 | MCP + AutoGen Notion Agent | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MCP-with-AutoGen-Integrating-AI-Agents-with-Notion.git) | — |
-| 04 | AutoGen Data Analyzer GPT | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AutoGen-Data-Analyzer-GPT-Build-an-AI-Powered-Data-Analysis-System.git) | — |
-| 05 | SwarmAI Multi-Agent Personal Assistant | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/SwarmAI-Build-a-Multi-Agent-Personal-Assistant.git) | — |
-| 06 | Azure Multi-Modal Compliance Orchestration Engine (LangGraph + LangSmith) | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Azure-Multi-Modal-Compliance-Orchestration-Engine-using-LangGraph-and-LangSmith.git) | — |
-| 07 | AI Travel Planner — LLMOps Pipeline | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AI-Travel-Itinerary-Planner-with-Kubernetes-GCP-and-ELK-Stack.git) | — |
-| 08 | Flipkart Product Recommender Chatbot with GCP | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Flipkart-Product-Recommender-Chatbot-with-GCP.git) | — |
-| 09 | AniBaba — AI-Powered Anime Recommendation System | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/AniBaba-AI-Powered-Anime-Recommendation-System.git) | — |
-| 10 | Pipecat AI Interview Coach — Real-Time Voice Interaction | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Pipecat-AI-Interview-Coach-Real-Time-Voice-Interaction.git) | — |
-| 11 | Autonomous Blog Generation Agent | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Building-an-Autonomous-Blog-Generation-Agent-with-Langgraph-FastAPI.git) | — |
-| 12 | Stateful Agentic AI (LangGraph + Llama 3) | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3.git) | — |
-| 13 | Multi-Agent Quantitative Analysis System | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-Quantitative-Analysis-System-with-Azure-Cloud-Integration.git) | — |
-| 14 | Notion ReAct Planner Agent | 🟢 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Notion-ReAct-Planner-Agent.git) | — |
-| 15 | YouTube Content Creation Agent | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git) | — |
-| 16 | AI-Powered Customer Support Agent with Memory & Tool Calling | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git) | — |
-| 17 | Insurance Claim Support AI Agent (LangMem + RAG) | 🟡 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git) | — |
-| 18 | Advanced AI GitHub PR Code Reviewer | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git) | — |
-| 19 | Production-Grade Advanced RAG (LangGraph + GCP + Groq) | 🔴 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git) | — |
-| 20 | Multi Agent Clinical Trial Inteligence Using LangGraph LangMem GCP |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-Clinical-Trial-Inteligence-Using-LangGraph-LangMem-GCP.git)| __ |
-| 21 |Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming.git)|__|
-| 22 | End-to-End-AI-Governance-Project |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-AI-Governance-Project.git)|__|
-| 23 | MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment | 🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment)| |
-| 24 | Travel-Planning-Multi-Agent-with-LangGraph | 🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Travel-Planning-Multi-Agent-with-LangGraph)| |
+<table>
+<tr><th align="left">Project</th><th align="center">Repo</th><th align="center">Live</th></tr>
+<tr><td>Real-Time Voice AI Agent (RAG)</td><td align="center"><a href="https://github.com/mdzaheerjk/Real-Time-Voice-AI-Agent-with-RAG.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Google ADK AI Agent Deployment</td><td align="center"><a href="https://github.com/mdzaheerjk/Google-ADK-Build-AI-Agents-and-Deploy-to-the-Cloud.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>MCP + AutoGen Notion Agent</td><td align="center"><a href="https://github.com/mdzaheerjk/MCP-with-AutoGen-Integrating-AI-Agents-with-Notion.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AutoGen Data Analyzer GPT</td><td align="center"><a href="https://github.com/mdzaheerjk/AutoGen-Data-Analyzer-GPT-Build-an-AI-Powered-Data-Analysis-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>SwarmAI Multi-Agent Personal Assistant</td><td align="center"><a href="https://github.com/mdzaheerjk/SwarmAI-Build-a-Multi-Agent-Personal-Assistant.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Azure Multi-Modal Compliance Orchestration Engine (LangGraph + LangSmith)</td><td align="center"><a href="https://github.com/mdzaheerjk/Azure-Multi-Modal-Compliance-Orchestration-Engine-using-LangGraph-and-LangSmith.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AI Travel Planner — LLMOps Pipeline</td><td align="center"><a href="https://github.com/mdzaheerjk/AI-Travel-Itinerary-Planner-with-Kubernetes-GCP-and-ELK-Stack.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Flipkart Product Recommender Chatbot with GCP</td><td align="center"><a href="https://github.com/mdzaheerjk/Flipkart-Product-Recommender-Chatbot-with-GCP.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AniBaba — AI-Powered Anime Recommendation System</td><td align="center"><a href="https://github.com/mdzaheerjk/AniBaba-AI-Powered-Anime-Recommendation-System.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Pipecat AI Interview Coach — Real-Time Voice Interaction</td><td align="center"><a href="https://github.com/mdzaheerjk/Pipecat-AI-Interview-Coach-Real-Time-Voice-Interaction.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Autonomous Blog Generation Agent</td><td align="center"><a href="https://github.com/mdzaheerjk/Building-an-Autonomous-Blog-Generation-Agent-with-Langgraph-FastAPI.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Stateful Agentic AI (LangGraph + Llama 3)</td><td align="center"><a href="https://github.com/mdzaheerjk/Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Multi-Agent Quantitative Analysis System</td><td align="center"><a href="https://github.com/mdzaheerjk/Multi-Agent-Quantitative-Analysis-System-with-Azure-Cloud-Integration.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Notion ReAct Planner Agent</td><td align="center"><a href="https://github.com/mdzaheerjk/Notion-ReAct-Planner-Agent.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>YouTube Content Creation Agent</td><td align="center"><a href="https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>AI-Powered Customer Support Agent with Memory & Tool Calling</td><td align="center"><a href="https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Insurance Claim Support AI Agent (LangMem + RAG)</td><td align="center"><a href="https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Advanced AI GitHub PR Code Reviewer</td><td align="center"><a href="https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Production-Grade Advanced RAG (LangGraph + GCP + Groq)</td><td align="center"><a href="https://github.com/mdzaheerjk/Production-Grade-advance-RAG-with-LangGraph-GCP-and-Groq.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Multi Agent Clinical Trial Intelligence Using LangGraph, LangMem & GCP</td><td align="center"><a href="https://github.com/mdzaheerjk/Multi-Agent-Clinical-Trial-Inteligence-Using-LangGraph-LangMem-GCP.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Multi-Agent AI Research Platform with AWS Guardrails, LLM Gateway & Red-Teaming</td><td align="center"><a href="https://github.com/mdzaheerjk/Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>End-to-End AI Governance Project</td><td align="center"><a href="https://github.com/mdzaheerjk/End-to-End-AI-Governance-Project.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>MedRAG with LlamaIndex — Clinical Guideline RAG from Ingestion to Deployment</td><td align="center"><a href="https://github.com/mdzaheerjk/MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+<tr><td>Travel Planning Multi-Agent with LangGraph</td><td align="center"><a href="https://github.com/mdzaheerjk/Travel-Planning-Multi-Agent-with-LangGraph"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+</table>
 
-<details>
+---
+
+## 🛠️ Tech Stack
+
+<details open>
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 
