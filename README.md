@@ -176,6 +176,7 @@
 | 21 |Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Multi-Agent-AI-Research-Platform-with-AWS-Guardrails-LLM-Gateway-Red-Teaming.git)|__|
 | 22 | End-to-End-AI-Governance-Project |🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/End-to-End-AI-Governance-Project.git)|__|
 | 23 | MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment | 🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment)| |
+| 24 | Travel-Planning-Multi-Agent-with-LangGraph | 🔴|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdzaheerjk/Travel-Planning-Multi-Agent-with-LangGraph)| |
 
 <details>
 <summary><b>🤖 AI & Machine Learning</b></summary>
