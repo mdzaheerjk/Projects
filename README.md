@@ -178,7 +178,7 @@
 <tr><td>MedRAG with LlamaIndex — Clinical Guideline RAG from Ingestion to Deployment</td><td align="center"><a href="https://github.com/mdzaheerjk/MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
 <tr><td>Travel Planning Multi-Agent with LangGraph</td><td align="center"><a href="https://github.com/mdzaheerjk/Travel-Planning-Multi-Agent-with-LangGraph"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
 <tr><td>Bank-s-Account-Payables-AI-Agent-System-with-Advanced-AI-Governance</td><td align="center"><a href="https://github.com/mdzaheerjk/Bank-s-Account-Payables-AI-Agent-System-with-Advanced-AI-Governance"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
-
+<tr><td>Enterprise-IT-Support-Agentic-RAG-Copilot</td><td align="center"><a href="https://github.com/mdzaheerjk/Enterprise-IT-Support-Agentic-RAG-Copilot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
   
 </table>
 
